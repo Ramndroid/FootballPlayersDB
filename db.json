@@ -1,0 +1,166 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "John Doe",
+      "email": "john@doe.com",
+      "password": "1234"
+    }
+  ],
+  "players": [
+    {
+      "id": "stegen",
+      "number": "1",
+      "first_name": "Marc-André",
+      "last_name": "ter Stegen",
+      "birth": "30/04/1992"
+    },
+    {
+      "id": "pena",
+      "number": "26",
+      "first_name": "Iñaki",
+      "last_name": "Peña",
+      "birth": "02/03/1999"
+    },
+    {
+      "id": "bellerin",
+      "number": "2",
+      "first_name": "Héctor",
+      "last_name": "Bellerín",
+      "birth": "19/03/1995"
+    },
+    {
+      "id": "pique",
+      "number": "3",
+      "first_name": "Gerard",
+      "last_name": "Piqué",
+      "birth": "02/02/1987"
+    },
+    {
+      "id": "araujo",
+      "number": "4",
+      "first_name": "Ronald",
+      "last_name": "Araújo",
+      "birth": "07/03/1999"
+    },
+    {
+      "id": "christensen",
+      "number": "15",
+      "first_name": "Andreas",
+      "last_name": "Christensen",
+      "birth": "10/04/1996"
+    },
+    {
+      "id": "alonso",
+      "number": "17",
+      "first_name": "Marcos",
+      "last_name": "Alonso",
+      "birth": "28/12/1990"
+    },
+    {
+      "id": "alba",
+      "number": "18",
+      "first_name": "Jordi",
+      "last_name": "Alba",
+      "birth": "21/03/1989"
+    },
+    {
+      "id": "kounde",
+      "number": "23",
+      "first_name": "Jules",
+      "last_name": "Kounde",
+      "birth": "12/11/1998"
+    },
+    {
+      "id": "garcia",
+      "number": "24",
+      "first_name": "Eric",
+      "last_name": "García",
+      "birth": "09/01/2001"
+    },
+    {
+      "id": "busquets",
+      "number": "5",
+      "first_name": "Sergio",
+      "last_name": "Busquets",
+      "birth": "16/07/1988"
+    },
+    {
+      "id": "gonzalez",
+      "number": "8",
+      "first_name": "Pedro",
+      "last_name": "González",
+      "birth": "25/11/2002"
+    },
+    {
+      "id": "kessie",
+      "number": "19",
+      "first_name": "Franck",
+      "last_name": "Kessie",
+      "birth": "19/12/1996"
+    },
+    {
+      "id": "roberto",
+      "number": "20",
+      "first_name": "Sergi",
+      "last_name": "Roberto",
+      "birth": "07/02/1992"
+    },
+    {
+      "id": "jong",
+      "number": "21",
+      "first_name": "Frenkie",
+      "last_name": "de Jong",
+      "birth": "12/05/1997"
+    },
+    {
+      "id": "paez",
+      "number": "30",
+      "first_name": "Pablo",
+      "last_name": "Páez",
+      "birth": "05/08/2004"
+    },
+    {
+      "id": "dembele",
+      "number": "7",
+      "first_name": "Ousmane",
+      "last_name": "Dembélé",
+      "birth": "15/05/1997"
+    },
+    {
+      "id": "lewandowski",
+      "number": "9",
+      "first_name": "Robert",
+      "last_name": "Lewandowski",
+      "birth": "21/08/1988"
+    },
+    {
+      "id": "fati",
+      "number": "10",
+      "first_name": "Ansu",
+      "last_name": "Fati",
+      "birth": "31/10/2002"
+    },
+    {
+      "id": "torres",
+      "number": "11",
+      "first_name": "Ferran",
+      "last_name": "Torres",
+      "birth": "29/02/2000"
+    },
+    {
+      "id": "depay",
+      "number": "14",
+      "first_name": "Memphis",
+      "last_name": "Depay",
+      "birth": "13/02/1994"
+    },
+    {
+      "id": "dias",
+      "number": "22",
+      "first_name": "Raphael",
+      "last_name": "Dias",
+      "birth": "14/12/1996"
+    }
+  ]
+}
